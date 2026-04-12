@@ -1,4 +1,4 @@
-# Hi, I'm Amalsha 👩‍💻
+# Hi, I'm Kavindi 👩‍💻
 
 🎓 Information Systems Undergraduate  
 💻 Aspiring Full Stack Developer  
