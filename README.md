@@ -6,8 +6,7 @@
 <!-- Animated typing text -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Amalsha+Kavindi+%F0%9F%91%8B;Full+Stack+Developer+in+Progress...;Java+%26+Kotlin+Enthusiast;React+%2B+Spring+Boot+Learner;Building+Real-World+Apps!)](https://git.io/typing-svg)
 
-<!-- Profile views badge -->
-![Profile Views](https://visitcount.itsvg.in/api?id=Amalshakavindi2003&icon=6&color=9)
+
 
 </div>
 
