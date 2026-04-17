@@ -2,15 +2,15 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Amalsha%20Kavindi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Undergraduate%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=56&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Hello+World!+I'm+Amalsha+%F0%9F%91%8B;Turning+ideas+into+code...;Java+%26+Kotlin+Developer;Full+Stack+Developer+in+Progress)](https://git.io/typing-svg)
-
 <br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Amalshakavindi2003&icon=6&color=12)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Hello+World!+I'm+Amalsha+%F0%9F%91%8B;Turning+ideas+into+code...;Java+%26+Kotlin+Developer;Full+Stack+Developer+in+Progress)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
+
+---
 
 ## 👩‍💻 About Me
 
@@ -21,6 +21,7 @@
 - 🌱 Currently diving into **Spring Boot** and **React**
 - 🔨 Love building things that solve real problems
 - 📈 Always improving — database design, problem-solving, and clean code
+- 📍 Based in **Sri Lanka**
 
 <br/>
 
@@ -63,18 +64,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Amalshakavindi2003&theme=onestar&no-frame=true&row=1&column=6&margin-w=8)
-
-</div>
-
-<br/>
-
----
-
 ## 📖 My Journey
 
 ```text
@@ -97,6 +86,36 @@
       ├── Information System Design & Security
       ├── Building real-world full stack projects
       └── Working toward a Full Stack Developer role
+```
+
+<br/>
+
+---
+
+## 🎯 Currently Working On
+
+| What | Details |
+|------|---------|
+| 🌐 Full Stack App | React frontend + Spring Boot backend |
+| 📱 Android App | Kotlin + Android Studio |
+| 📚 Learning | System Design & Security Basics |
+
+<br/>
+
+---
+
+## 💬 A Little More About Me
+
+```javascript
+const amalsha = {
+  pronouns    : "she / her",
+  location    : "Sri Lanka 🇱🇰",
+  education   : "Information Systems Undergraduate",
+  goal        : "Become a Full Stack Developer",
+  currentlyLearning : ["React", "Spring Boot", "REST APIs"],
+  hobbies     : ["Coding", "UI Design", "Problem Solving"],
+  funFact     : "I write cleaner commit messages than diary entries 😄"
+};
 ```
 
 <br/>
