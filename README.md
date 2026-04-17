@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated wave banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amalsha%20Kavindi&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Undergraduate%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
 
-<!-- Animated typing text -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Amalsha+Kavindi+%F0%9F%91%8B;Full+Stack+Developer+in+Progress...;Java+%26+Kotlin+Enthusiast;React+%2B+Spring+Boot+Learner;Building+Real-World+Apps!)](https://git.io/typing-svg)
 
-
+![Profile Views](https://visitcount.itsvg.in/api?id=Amalshakavindi2003&icon=6&color=9)
 
 </div>
 
@@ -59,22 +57,24 @@
 
 ---
 
+## Skills Progress
 
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalsha-kavindi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edamalsha2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amalshakavindi2003)
-
-</div>
+| Skill | Progress |
+|-------|----------|
+| Java | ![85%](https://progress-bar.xyz/85/?title=Java&width=200&color=ED8B00) |
+| MySQL & Database Design | ![80%](https://progress-bar.xyz/80/?title=MySQL&width=200&color=005C84) |
+| HTML & CSS | ![75%](https://progress-bar.xyz/75/?title=HTML%2FCSS&width=200&color=E34F26) |
+| JavaScript | ![70%](https://progress-bar.xyz/70/?title=JavaScript&width=200&color=F7DF1E) |
+| Kotlin | ![50%](https://progress-bar.xyz/50/?title=Kotlin&width=200&color=7F52FF) |
+| React | ![35%](https://progress-bar.xyz/35/?title=React&width=200&color=61DAFB) |
+| Spring Boot | ![30%](https://progress-bar.xyz/30/?title=Spring+Boot&width=200&color=6DB33F) |
 
 ---
 
-<!-- Animated footer wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Amalshakavindi2003&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## My Learning Journey
