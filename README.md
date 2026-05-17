@@ -21,7 +21,7 @@
 - 🤝 Skilled at translating business needs into clear technical requirements
 - 🛠️ Strong technical foundation in **Web & Mobile Development** — helps me collaborate effectively with dev teams
 - 📈 Always improving — stakeholder communication, system documentation, and problem-solving
-- 📍 Based in **Matara, Sri Lanka**
+- 📍 Based in **Sri Lanka**
 
 <br/>
 
