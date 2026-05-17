@@ -20,7 +20,7 @@
 - 🔍 Passionate about **Requirements Analysis**, **Process Modelling**, and **Data-Driven Decisions**
 - 🤝 Skilled at translating business needs into clear technical requirements
 - 🛠️ Strong technical foundation in **Web & Mobile Development** — helps me collaborate effectively with dev teams
-- 📈 Always improving — stakeholder communication, system documentation, and problem-solving.
+- 📈 Always improving — stakeholder communication, system documentation, and problem-solving
 - 📍 Based in **Sri Lanka**
 
 <br/>
