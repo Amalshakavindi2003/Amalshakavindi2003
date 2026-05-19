@@ -1,10 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Amalsha%20Kavindi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Undergraduate%20%7C%20Aspiring%20Business%20Analyst&descAlignY=56&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amalsha%20Kavindi&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%C2%B7%20Business%20Analyst%20in%20Progress%20%C2%B7%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=56&descAlign=50)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Hello+World!+I'm+Amalsha+%F0%9F%91%8B;Bridging+Business+%26+Technology...;Business+Analyst+in+Progress;Information+Systems+Undergraduate)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Requirements+Analyst+%7C+Process+Modeller+%7C+Full+Stack+Dev;Translating+business+needs+into+working+systems;Java+%C2%B7+Kotlin+%C2%B7+React+%C2%B7+Spring+Boot+%C2%B7+SQL;Bridging+Business+%26+Engineering+since+2023)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,16 +16,15 @@
 
 ---
 
-## 👩‍💼 About Me
+## `whoami`
 
-> *Information Systems undergraduate from Sri Lanka, passionate about bridging business needs and technology through analysis, design, and clean solutions.*
+> *Information Systems undergraduate who builds full-stack apps, models business processes, and writes requirements that engineers actually want to read.*
 
-- 🎓 Studying **Information Systems** — focused on systems analysis, design & security
-- 🔍 Passionate about **Requirements Analysis**, **Process Modelling**, and **Data-Driven Decisions**
-- 🤝 Skilled at translating business needs into clear technical requirements
-- 🛠️ Strong technical foundation in **Web & Mobile Development** — helps me collaborate effectively with dev teams
-- 📈 Always improving — stakeholder communication, system documentation, and problem-solving
-- 📍 Based in **Sri Lanka**
+- 🎓 **IS undergraduate** — systems analysis, design & security
+- 🔍 **BA-focused** — requirements elicitation, BPMN, use cases, BRDs
+- 💻 **Dev-fluent** — Java, Kotlin, React, Spring Boot, MySQL, Android
+- 🎨 **Design-aware** — Figma wireframing, UI/UX thinking
+- 🤝 **Bridge builder** — I understand both the boardroom and the codebase
 
 <br/>
 
@@ -29,14 +32,48 @@
 
 ## 🧩 Business Analysis Skills
 
-| Area | Skills & Tools |
-|------|----------------|
-| 📋 Requirements | Elicitation, BRD writing, user stories, use cases |
-| 🔄 Process Modelling | BPMN, flowcharts, ER diagrams, DFDs |
-| 📊 Data Analysis | SQL, data modelling, normalization |
-| 📝 Documentation | Functional specs, system docs, process maps |
-| 🤝 Stakeholder Mgmt | Interviews, workshops, gap analysis |
-| 🎨 Design & Prototyping | Wireframing, UI/UX thinking with Figma |
+<table>
+<tr>
+<td>
+
+**📋 Requirements Engineering**
+- Business Requirements Documents (BRD)
+- User stories & acceptance criteria
+- Use case specifications
+- Elicitation via interviews & workshops
+
+</td>
+<td>
+
+**🔄 Process Modelling**
+- BPMN diagrams
+- Flowcharts & data flow diagrams (DFD)
+- ER diagrams
+- Gap analysis & AS-IS / TO-BE mapping
+
+</td>
+</tr>
+<tr>
+<td>
+
+**📊 Data & Systems**
+- SQL, data modelling & normalization
+- Functional specifications
+- System documentation & process maps
+- IS Design & Security (in progress)
+
+</td>
+<td>
+
+**🤝 Stakeholder Management**
+- Requirements workshops
+- Conflict resolution & prioritization
+- Clear technical communication
+- Translating business → engineering
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -44,7 +81,7 @@
 
 ## 🛠️ Tech Stack
 
-> *My development skills help me understand technical constraints and communicate more effectively with engineering teams.*
+> *Full-stack fluency helps me collaborate with dev teams without losing anything in translation.*
 
 **Languages**
 
@@ -69,40 +106,45 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-f8f8f2?style=flat-square&logo=mysql&logoColor=4479A1)
 
-**Tools & Platforms**
+**Mobile**
 
+![Android](https://img.shields.io/badge/Android-f8f8f2?style=flat-square&logo=android&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android_Studio-f8f8f2?style=flat-square&logo=android-studio&logoColor=3DDC84)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-f8f8f2?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-f8f8f2?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-f8f8f2?style=flat-square&logo=github&logoColor=181717)
-![Figma](https://img.shields.io/badge/Figma-f8f8f2?style=flat-square&logo=figma&logoColor=F24E1E)
-![Android Studio](https://img.shields.io/badge/Android_Studio-f8f8f2?style=flat-square&logo=android-studio&logoColor=3DDC84)
 ![VS Code](https://img.shields.io/badge/VS_Code-f8f8f2?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
 
 ---
 
-## 📖 My Journey
+## 📖 Journey
 
-```text
-2023  Information Systems foundations
-      ├── Java fundamentals & OOP — systems thinking from the ground up
-      ├── C++ & structured problem solving
-      └── SQL & database design basics
+```
+2023 ── IS Foundations
+        ├── Java fundamentals & OOP — systems thinking from day one
+        ├── C++ & structured problem solving
+        └── SQL & database design basics
 
-2024  Applied systems work
-      ├── Database Design — ER diagrams & normalization
-      ├── Built Android apps with Kotlin — end-to-end system thinking
-      └── Learned HTML, CSS & JavaScript
+2024 ── Applied Systems Work
+        ├── ER diagrams, normalization & database design
+        ├── Kotlin + Android Studio — built end-to-end mobile apps
+        └── HTML · CSS · JavaScript — frontend foundations
 
-2025  Bridging business & technology
-      ├── Spring Boot & REST APIs — understanding backend architecture
-      ├── React for frontend — full picture of system design
-      └── Git workflows & collaborative coding
+2025 ── Bridging Business & Technology
+        ├── Spring Boot & REST APIs — backend architecture deep dive
+        ├── React — full picture of system design
+        └── Git & collaborative development workflows
 
-2026  Stepping into BA practice
-      ├── Information System Design & Security
-      ├── Requirements documentation & process analysis
-      └── Working toward a Business Analyst role
+2026 ── Stepping into BA Practice   ← NOW
+        ├── Information System Design & Security
+        ├── Requirements documentation & process analysis
+        ├── BPMN & Business Process Analysis
+        └── Working toward a Business Analyst role
 ```
 
 <br/>
@@ -111,12 +153,13 @@
 
 ## 🎯 Currently Working On
 
-| What | Details |
-|------|---------|
-| 📄 Requirements Analysis | Writing BRDs & use case specs for a full stack project |
-| 🗄️ Data Modelling | Designing schemas and entity relationships |
-| 🌐 Full Stack App | React frontend + Spring Boot backend |
-| 📚 Learning | System Design, BPMN & Business Process Analysis |
+| | What | Details |
+|--|------|---------|
+| 📄 | Requirements Analysis | Writing BRDs & use case specs for a full stack project |
+| 🗄️ | Data Modelling | Designing schemas and entity relationship diagrams |
+| 🌐 | Full Stack App | React frontend + Spring Boot backend — end to end |
+| 📚 | Self-Study | System Design, BPMN & Business Process Analysis |
+| 🔐 | Coursework | Information System Design & Security |
 
 <br/>
 
@@ -126,14 +169,23 @@
 
 ```javascript
 const amalsha = {
-  pronouns          : "she / her",
-  location          : "Sri Lanka 🇱🇰",
-  education         : "Information Systems Undergraduate",
-  goal              : "Become a Business Analyst",
-  strengths         : ["Requirements Analysis", "Process Modelling", "Stakeholder Communication"],
-  techBackground    : ["Java", "Kotlin", "SQL", "JavaScript", "Spring Boot", "React"],
-  hobbies           : ["System Design", "UI/UX Thinking", "Problem Solving"],
-  funFact           : "I document requirements more carefully than I write diary entries — and I write a lot 😄"
+  pronouns        : "she / her",
+  location        : "Sri Lanka 🇱🇰",
+  education       : "Information Systems Undergraduate",
+  goal            : "Business Analyst",
+
+  // What I do
+  BA_skills       : ["Requirements Elicitation", "BRD Writing", "BPMN", "ER Diagrams",
+                     "Use Cases", "Gap Analysis", "Stakeholder Communication"],
+  tech_skills     : ["Java", "Kotlin", "JavaScript", "C++", "SQL",
+                     "React", "Spring Boot", "REST APIs", "MySQL", "Android"],
+  design_skills   : ["Figma", "Wireframing", "UI/UX Thinking", "Process Maps"],
+
+  // Superpower
+  superpower      : "I understand both the business problem AND the code that solves it",
+
+  // Fun fact
+  funFact         : "I document requirements more carefully than I write diary entries — and I write a lot 😄"
 };
 ```
 
@@ -153,4 +205,4 @@ const amalsha = {
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
