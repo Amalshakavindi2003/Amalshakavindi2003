@@ -16,7 +16,7 @@
 
 ---
 
-## `whoami`
+## `Who am I`
 
 > *Information Systems undergraduate who builds full-stack apps, models business processes, and writes requirements that engineers actually want to read.*
 
