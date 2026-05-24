@@ -60,7 +60,7 @@
 - SQL, data modelling & normalization
 - Functional specifications
 - System documentation & process maps
-- IS Design & Security (in progress)
+- IS Design & Security 
 
 </td>
 <td>
